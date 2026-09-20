@@ -31,3 +31,17 @@
 ---
 
 ## ⚙️ Arquitetura do Fluxo
+[ Gatilho: Nova Transcrição na Planilha ]
+│
+▼
+[ Zapier: Format & Clean Data ]
+│
+▼
+[ Chamada OpenAI API / Prompt QA ]
+(Análise de Qualidade, Precificação e Descartes)
+│
+▼
+[ Retorno dos Dados Auditados na Planilha ]
+│
+▼
+[ Alerta / Notificação de Conclusão ]

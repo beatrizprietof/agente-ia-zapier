@@ -1,4 +1,4 @@
-#  Agente de IA para Automação de Monitoria de Qualidade (Zapier + OpenAI)
+#  Agente de IA para Automação de Monitoria de Qualidade
 
 > Automação inteligente desenvolvida para realizar análises e monitorias de qualidade automatizadas a partir de transcrições de atendimentos, otimizando o fluxo de QA e a extração de indicadores operacionais.
 

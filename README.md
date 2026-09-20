@@ -23,7 +23,11 @@
 ## 🖼️ Demonstração Visual
 
 ### 1. Fluxo da Automação no Zapier
-![Fluxo do Zapier](https://via.placeholder.com/800x400.png?text=Cole+aqui+um+print+do+seu+fluxo+no+Zapier)
+![Fluxo do Zapier](https://via.placeholde
+
+https://github.com/user-attachments/assets/1f37115b-29ec-4538-864e-e491fde73859
+
+r.com/800x400.png?text=Cole+aqui+um+print+do+seu+fluxo+no+Zapier)
 
 ### 2. Planilha de Resultados (Monitoria Concluída & Indicadores)
 ![Planilha de Monitorias](https://via.placeholder.com/800x400.png?text=Cole+aqui+um+print+da+planilha+com+os+dados+gerados)

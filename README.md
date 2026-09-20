@@ -30,7 +30,7 @@ https://github.com/user-attachments/assets/5363a754-c921-421b-a58d-3c2803432cf5
 )
 
 ### 2. Planilha de Resultados (Monitoria Concluída & Indicadores)
-![Planilha de Monitorias](https://via.placeholder.com/800x400.png?text=Cole+aqui+um+print+da+planilha+com+os+dados+gerados)
+![Planilha de Monitorias](resultadomonitoria.png)
 
 ---
 

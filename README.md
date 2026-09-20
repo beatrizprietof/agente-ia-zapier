@@ -34,7 +34,7 @@ https://github.com/user-attachments/assets/5363a754-c921-421b-a58d-3c2803432cf5
 
 ---
 
-## ⚙️ Arquitetura do Fluxo
+##  Arquitetura do Fluxo
 [ Gatilho: Nova Transcrição na Planilha ]
 │
 ▼
